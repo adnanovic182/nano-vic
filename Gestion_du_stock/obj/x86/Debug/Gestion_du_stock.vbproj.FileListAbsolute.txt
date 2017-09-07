@@ -1,0 +1,23 @@
+C:\Users\Nanovic-182\AppData\Local\Temporary Projects\Gestion_du_stock\bin\Debug\Gestion_du_stock.exe
+C:\Users\Nanovic-182\AppData\Local\Temporary Projects\Gestion_du_stock\bin\Debug\Gestion_du_stock.pdb
+C:\Users\Nanovic-182\AppData\Local\Temporary Projects\Gestion_du_stock\bin\Debug\Gestion_du_stock.xml
+C:\Users\Nanovic-182\AppData\Local\Temporary Projects\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.Form1.resources
+C:\Users\Nanovic-182\AppData\Local\Temporary Projects\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.Form2.resources
+C:\Users\Nanovic-182\AppData\Local\Temporary Projects\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.Resources.resources
+C:\Users\Nanovic-182\AppData\Local\Temporary Projects\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.vbproj.GenerateResource.Cache
+C:\Users\Nanovic-182\AppData\Local\Temporary Projects\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.exe
+C:\Users\Nanovic-182\AppData\Local\Temporary Projects\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.xml
+C:\Users\Nanovic-182\AppData\Local\Temporary Projects\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.pdb
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.exe
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.xml
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.pdb
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\bin\Debug\Gestion_du_stock.pdb
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\bin\Debug\Gestion_du_stock.xml
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.Form1.resources
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.Form2.resources
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.Resources.resources
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.vbproj.GenerateResource.Cache
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\bin\Debug\db1.mdb
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\bin\Debug\Gestion_du_stock.exe.config
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.vbprojResolveAssemblyReference.cache
+C:\Users\Nanovic-182\Documents\vb-Prog\Gestion_du_stock\Gestion_du_stock\obj\x86\Debug\Gestion_du_stock.Form3.resources
